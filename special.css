@@ -1,0 +1,12 @@
+#login, #password{
+    border-color: #007ACC;
+    border-width: 2px;
+    color: #10326a;
+}
+#authentification{
+    color: #10326a;
+    size: 50px;
+}
+#connecter{
+    background-color: #10326a;
+}

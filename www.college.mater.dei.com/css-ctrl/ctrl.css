@@ -1,0 +1,69 @@
+.combox{
+	width: 200px;
+	height: 35px;
+	border-radius: 10px;
+	border-color: #007ACC;
+	border-style: solid;
+	text-align: center;
+}
+#c1{
+	border-color: #red;
+}
+.btn{
+	width: 100px;
+	height: 35px;
+	border-radius: 10px;
+	border-color: #0097ac;
+	border-style: solid;
+	text-align: center;
+	color: #000;
+	background-color: #0097ac;
+	size: 20px;
+}
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+    size: 24px;
+    border-color: #f53f10;
+}
+#envoi{
+	width: 200px;
+	height: 50px;
+	border-radius: 10px;
+	border-color: #0097ac;
+	border-style: solid;
+	text-align: center;
+	color: #000;
+	background-color: #0097ac;
+	size: 24px;
+	vertical-align: center;
+}
+#envoi:hover{
+    background-color: #000;
+    color: #fff;
+    size: 30px;
+    border-color: #f53f10;
+}
+#lienOK{
+	height: 35px;
+	border-radius: 10px;
+	background-color:#0097ac;
+	color:red;
+
+}
+#lienOK:hover{
+	height: 35px;
+	border-radius: 10px;
+	background-color:#000;
+	color:red;
+}
+textarea{
+	text-align: center;
+	width: 600px;
+	height: 50px;
+	background-color: #fff;
+	color: #000;
+}
+form{
+	text-align: center;
+}
